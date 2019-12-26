@@ -30,12 +30,10 @@ def monopoly_with_third_tier
     :four_pieces_owned => 200
     },
     :names => {
-      :reading_railroad => {
       :name1 => "natalia",
       :name2 => "shelly",
       :name3 => "vikkie" ,
-      :name4 => "richie",
-      }
+      :name4 => "richie"
     }
   }
 }
