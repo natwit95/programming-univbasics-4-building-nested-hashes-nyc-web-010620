@@ -28,7 +28,6 @@ def monopoly_with_third_tier
     :price2 => 7,
     :price3 => 8,
     :price4 => 9
-
     },
     :names => {
       :name1 => "natalia",
