@@ -3,7 +3,7 @@ def base_hash
   # keyword "return." Nice and neat.
 	hash = {:keyword => {}}
 end
-base_hash[:keyword]
+hash[:keyword]
 
 def monopoly_with_second_tier
   # When you start writing the implementation for this method, copy the Hash
